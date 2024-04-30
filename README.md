@@ -1,6 +1,6 @@
 # Library Management System
 
-![Library Management System]
+![Library Management System]( https://github.com/yogeshjangir16/Database-Project/blob/main/Library%20Managment%20System/admin/logo.png)
 
 The Library Management System is a web-based application developed to manage the day-to-day operations of a library. The system allows users to browse through available books, search for books, borrow and return books, manage user accounts, and generate reports.
 
@@ -9,7 +9,7 @@ The Library Management System is a web-based application developed to manage the
 - **Change Password:** Users can change their passwords.
 - **Edit Profile:** Users can update their profile information.
 - **Issue Books:** Users can borrow books from the library.
-- **View Profile:** Users can view their profile information and many more.
+- **View Profile:** Users can view their profile information.
 
 ## Technologies Used
 
@@ -83,3 +83,9 @@ The Library Management System is a web-based application developed to manage the
 - Implemented cascading operations to maintain data integrity.
 - For instance, when a book is issued, the corresponding status is updated, and the due date is calculated automatically.
 
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/library-management-system.git
